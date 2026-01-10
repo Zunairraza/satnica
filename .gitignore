@@ -1,0 +1,5 @@
+build
+dist
+venv
+Activate venv.txt
+satnica.spec
